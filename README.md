@@ -1,6 +1,6 @@
 # Victor Cunha
 
-## Olá pessoal 👋
+## Hello There 👋
 Estudante de Sistemas de Informação :computer:
 
 <!--
