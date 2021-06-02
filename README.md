@@ -3,8 +3,8 @@
 ## Hello There 👋
 Estudante de Sistemas de Informação :computer:
 
-CodePen: https://codepen.io/victorhcunha
-Replit: https://replit.com/@victorhcunha
+- CodePen: https://codepen.io/victorhcunha
+- Replit: https://replit.com/@victorhcunha
 
 <!--
 **victorhcunha/victorhcunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
