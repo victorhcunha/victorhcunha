@@ -1,6 +1,5 @@
 # Victor Cunha
 
-## Hello There 👋
 Estudante de Sistemas de Informação :computer:
 
 - CodePen: https://codepen.io/victorhcunha
