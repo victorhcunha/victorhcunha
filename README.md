@@ -6,11 +6,10 @@ Estudante de Sistemas de Informação :computer:
 - Replit: https://replit.com/@victorhcunha
 - Codewars: https://www.codewars.com/users/victorhcunha
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-</p>
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorhcunha&theme=dark&layout=compact)
 
