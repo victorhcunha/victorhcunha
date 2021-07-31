@@ -1,12 +1,13 @@
-# Victor Cunha
+### Victor Cunha
 
 Estudante de Sistemas de Informação :computer:
-
+<!---
 - CodePen: https://codepen.io/victorhcunha
 - Replit: https://replit.com/@victorhcunha
 - Codewars: https://www.codewars.com/users/victorhcunha
+-->
 
- <div>
+ <div align="center">
   <a href="https://github.com/victorhcunha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorhcunha&theme=dark&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhcunha&theme=dark&layout=compact"/>
