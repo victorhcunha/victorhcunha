@@ -16,3 +16,5 @@ Estudante de Sistemas de Informação :computer:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorhcunha&theme=dark&layout=compact)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorhcunha&theme=dark&count_private=true)
+
+ ![Snake animation](https://github.com/victorhcunha/victorhcunha/blob/output/github-contribution-grid-snake.svg)
