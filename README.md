@@ -19,4 +19,7 @@ Estudante de Sistemas de Informação :computer:
   <a href="https://www.linkedin.com/in/vhcunha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/victorhcunha/victorhcunha/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <a href="https://github.com/victorhcunha">
+  <img src="https://github.com/victorhcunha/victorhcunha/blob/output/github-contribution-grid-snake.svg"
+</div>
