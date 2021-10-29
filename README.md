@@ -9,8 +9,10 @@ Estudante de Sistemas de Informação :computer:
 
  <div align="center">
   <a href="https://github.com/victorhcunha">
+  <div style="display: flex; align-items: space-around;">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=victorhcunha&theme=dark&count_private=true&show_icons=true"/>
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhcunha&theme=dark&layout=compact"/>
+   </div>
 </div>
  
  ---
