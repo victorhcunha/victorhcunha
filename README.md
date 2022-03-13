@@ -1,6 +1,6 @@
 ### Victor Cunha
 
-Estudante de Sistemas de Informação :computer:
+Estudante Soli Deo Gloria :computer:
 <!---
 - CodePen: https://codepen.io/victorhcunha
 - Replit: https://replit.com/@victorhcunha
