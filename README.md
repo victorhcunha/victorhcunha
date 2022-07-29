@@ -7,7 +7,7 @@ Estudante Soli Deo Gloria :computer:
 - Codewars: https://www.codewars.com/users/victorhcunha
 -->
 
- <div align="center">
+ <div align="center" style="display: inline-block">
   <a href="https://github.com/victorhcunha">
   <img height="170em"  src="https://github-readme-stats.vercel.app/api?username=victorhcunha&theme=dark&count_private=true&show_icons=true"/>
   <img height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhcunha&theme=dark&layout=compact"/>
