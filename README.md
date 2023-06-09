@@ -1,5 +1,3 @@
-### Victor Cunha
-
 <!---
 - CodePen: https://codepen.io/victorhcunha
 - Replit: https://replit.com/@victorhcunha
